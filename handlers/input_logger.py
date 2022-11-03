@@ -1,4 +1,3 @@
-# ШАГ 5 - Платное / Бесплатное
 import pyrogram
 from loguru import logger
 from pyrogram import Client, filters
